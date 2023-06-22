@@ -1,39 +1,28 @@
 {
-   "status1":[ 
+    "tokens": [
+        {
+            "id": 0,
+            "description": "Newton: I like apples. I don't like Leibniz.",
+            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+            "name": "Newton"
+        },
+        {
+            "id": 1,
+            "description": "Leibniz: I shot first",
+            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+            "name": "Leibniz"
+        },
+        {
+            "id": 2,
+            "description": "Pascal: I am equal to Newton over a small area",
+            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+            "name": "Pascal"
+        },
       {
-        "id": 0,
-        "status": true
-      },
-      {
-        "id": 1,
-        "status": true
-      },
-      {
-        "id": 2,
-        "status": false
-      },
-      {
-        "id": 3,
-       "status": false
-      }
-  ],
-  "status2":[ 
-      {
-        "id": 0,
-        "status": true
-      },
-      {
-        "id": 1,
-        "status": true
-      },
-      {
-        "id": 2,
-        "status": true
-      },
-      {
-        "id": 3,
-       "status": false
-      }
-  ],
-    
+            "id": 3,
+            "description": "Tesla: I am cool and I don't care. Also - a pigeon",
+            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+            "name": "Tesla"
+        }
+    ]
 }
